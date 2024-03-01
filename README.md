@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-[![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.giff)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://rishavchanda.io)
 
 <p align="center"><img src="https://github.com/mdprana/mdprana/assets/95018619/1444c7ac-e1f1-4e93-923d-4634e3aa486d"</p>
 
